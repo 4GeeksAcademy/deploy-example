@@ -46,6 +46,8 @@ export const Home = () => {
 						Loading message from the backend (make sure your python 🐍 backend is running)...
 					</span>
 				)}
+
+				<div>Irio deploy</div>
 			</div>
 		</div>
 	);
